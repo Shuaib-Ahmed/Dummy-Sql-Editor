@@ -24,7 +24,7 @@ const SelectTable = () => {
         Table Name : {table.table_name || "test"}
       </h3>
 
-      <h3 style={{ margin: "1rem 0" }}>Total Rows : ${values.length}</h3>
+      <h3 style={{ margin: "1rem 0" }}>Total Rows : {values.length}</h3>
 
       <div style={{ display: "flex", margin: "1rem 0" }}>
         <h3>Limit : </h3>
