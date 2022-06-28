@@ -22,6 +22,11 @@ There is also a mock table named test, u can see the date of that table by the h
 **External Packages:** react-select, react-icons, react-notifications-component
 
 
+## Page Load Time
+It is in between 466 ms – 1.19 s range.
+I measured this with the help of performance table in google tools.
+
+
 ## Optimizations
 
 To make this website more efficient I am showing limit based table data to my user, so that larger amount of table data is not rendered at once and crahing my website.
