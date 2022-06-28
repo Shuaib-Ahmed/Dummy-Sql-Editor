@@ -1,0 +1,11 @@
+.mainContainer {
+  border: 0.2rem solid #333;
+  border-radius: 0.5rem;
+  margin: 2rem 0;
+  padding: 2rem 2rem;
+  font-size: 1.7rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
